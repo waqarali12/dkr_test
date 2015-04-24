@@ -4,4 +4,4 @@ MAINTAINER Ali <ali@ali.net>
 
 #Thios is a test "Dockefile"
 
-CMD ["echo", "*****Hi All*****"]
+CMD ["echo", "*****!!!!!Hi All!!!!!*****"]
