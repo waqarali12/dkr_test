@@ -31,7 +31,7 @@ _**YEAR-MONTH-DAY-title.MARKUP**_
 Two approaches can be adopted to render Pinside pages:
 
 - Install _jekyll_ on your local machine and _serve_ the pages
-- Install _docker_ and run Praqma/gijeli docker image __Recommended_ 
+- Install _docker_ and run Praqma/gijeli docker image __Recommended__ 
 
 ###[Gijeli Usage]() 
 You can render your jekyll website from [\<site-source>]() by using the following command:
